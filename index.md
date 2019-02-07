@@ -60,37 +60,37 @@ This couldn't have been possible without the core Jave team - OrcaLLC,- each of 
 
 An innovative troll, core writer and contributor to the project
 
-[Charles C.](https://avatars0.githubusercontent.com/u/1619591?s=400&v=4)
+![Charles C.](https://avatars0.githubusercontent.com/u/1619591?s=400&v=4 "A person")
 
 ### Naftuli K.
 
 Engineer of strength and will power, a spiritual conspirator since the beginning
 
-[Naftuli K.](https://avatars0.githubusercontent.com/u/347571?s=460&v=4)
+![Naftuli K.](https://avatars0.githubusercontent.com/u/347571?s=460&v=4 "A person")
 
 ### Bryce C.
 
 Jave celebrity, key contributor to the [chesstime-tools](https://github.com/OrcaLLC/chesstime-tools) project
 
-[Bryce C.](https://avatars0.githubusercontent.com/u/13250797?s=460&v=4)
+![Bryce C.](https://avatars0.githubusercontent.com/u/13250797?s=460&v=4 "A person")
 
 ### Jonathan T.
 
 Late arrival to the game, but showing a strong beginning in the NodeJS OrcaLLC game
 
-[Jonathan T.](https://avatars3.githubusercontent.com/u/41875?s=460&v=4)
+![Jonathan T.](https://avatars3.githubusercontent.com/u/41875?s=460&v=4 "A person")
 
 ### Allen H.
 
 An important member of the team from the beginning
 
-[Allen H.](https://www.sdsdental.com/wp-content/uploads/2016/12/R3_5011-1.jpg)
+![Allen H.](https://www.sdsdental.com/wp-content/uploads/2016/12/R3_5011-1.jpg "A person")
 
 ### Svyatoslav I. M.
 
 A wishful thinker, one of the initial conspirers of the project
 
-[Svyatoslav I. M.](https://avatars2.githubusercontent.com/u/4021012?s=460&v=4)
+![Svyatoslav I. M.](https://avatars2.githubusercontent.com/u/4021012?s=460&v=4 "A person")
 
 ## Registration
 
